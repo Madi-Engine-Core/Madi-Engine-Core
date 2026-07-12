@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "Madi-Engine-Core",
+    "Vortex-Core",
+    "MadiPay-Global"
+]
+resolver = "2"
